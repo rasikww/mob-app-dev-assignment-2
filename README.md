@@ -40,8 +40,8 @@ flutter pub get
 
 4. Configure the Android Studio or Visual Studio Code
 
-- Android Studio : Open the project in Android Studio and wait for the project to sync
-- Visual Studio Code: Open the project in Visual Stdio Code and install the Flutter extension.
+- Android Studio : Open the project in Android Studio and wait for the project to sync.
+- Visual Studio Code: Open the project in Visual Studio Code and install the Flutter extension.
 
 ## Running the App
 
